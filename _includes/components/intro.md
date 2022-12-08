@@ -1,0 +1,2 @@
+OpS-EDU is an open source project. OpS-EDU is an educational website for open source learning. It provides simple theories and quizzes for students who are new to open source to understand open source easily. 
+It also provides search engines such as Word or Phrase searching and Fuzzy matching to help users find what they need faster. Our main goal is to become interested in and familiar with open source so that they can finally contribute to open source utilization. Come join us!
